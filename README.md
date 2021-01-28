@@ -3,6 +3,10 @@
 ### 太素OS
 基于 RISCV 架构的 Rust 系统内核-太素OS
 
+源码
+- https://gitee.com/belowthetree/tisu-os
+- https://github.com/belowthetree/TisuOS
+
 ### 项目描述
 目前太素OS已经大致完成如下功能：
 
@@ -72,8 +76,8 @@
 
 
 ### 文档
-
-https://gitee.com/belowthetree/tisu-os
+- https://zhuanlan.zhihu.com/p/344819263
+- https://gitee.com/belowthetree/tisu-os
 
 ### License
 
